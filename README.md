@@ -1,1 +1,1 @@
-# ttic31220-japanparliament-analysis
+# TTIC 31220 Project
